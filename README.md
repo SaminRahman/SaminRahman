@@ -60,9 +60,9 @@
 
 ## ⚡ Interactive Terminal Overview
 
-```bash
-$ cat samin_profile.json
+```json
 {
+  "command": "cat shahana_profile.json",
   "background": "Network & Systems Administration (MITT Diploma)",
   "experience": [
     "Telecom Fraud & Risk Operations (Rogers Telecom ~4 Yrs)",
